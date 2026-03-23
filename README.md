@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=200&section=header&text=Nalla%20Vijay%20Balaji&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20AI%20Enthusiast%20%7C%20Hackathon%20Finalist&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18&height=200&section=header&text=Nalla%20Vijay%20Balaji&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20AI%20Enthusiast%20%7C%20Hackathon%20Finalist&descAlignY=58&descSize=18" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nalla-vijay-balaji-b8742b317)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DC143C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nalla-vijay-balaji-b8742b317)
 [![Email](https://img.shields.io/badge/Email-nallavijaibalaji%40gmail.com-87CEEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nallavijaibalaji@gmail.com)
-[![Location](https://img.shields.io/badge/Hyderabad%2C%20Telangana-FF69B4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad,Telangana)
+[![Location](https://img.shields.io/badge/Hyderabad%2C%20Telangana-DC143C?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad,Telangana)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Tech+Lead+%40+VISWAM.AI+%F0%9F%9A%80;Open+to+Collaboration+%F0%9F%92%AB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Tech+Lead+%40+VISWAM.AI+%F0%9F%9A%80;Open+to+Collaboration+%F0%9F%92%AB" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🌸 About Me
+## ❤️ About Me
 
 I'm a passionate **Computer Science & Engineering** student at **Anurag University, Hyderabad**, with a strong academic track record (CGPA: **8.65**) and hands-on experience in AI, IoT, and software development.
 
@@ -51,15 +51,15 @@ I thrive at the intersection of cutting-edge technology and real-world problem s
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-87CEEB?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-DC143C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-87CEEB?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-87CEEB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-87CEEB?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-FF69B4?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-DC143C?style=for-the-badge&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-87CEEB?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
@@ -68,9 +68,9 @@ I thrive at the intersection of cutting-edge technology and real-world problem s
 
 <div align="center">
 
-![Time Management](https://img.shields.io/badge/⏰%20Time%20Management-FF69B4?style=flat-square)
+![Time Management](https://img.shields.io/badge/⏰%20Time%20Management-DC143C?style=flat-square)
 ![Team Work](https://img.shields.io/badge/🤝%20Team%20Work-87CEEB?style=flat-square)
-![Public Speaking](https://img.shields.io/badge/🎤%20Public%20Speaking-FF69B4?style=flat-square)
+![Public Speaking](https://img.shields.io/badge/🎤%20Public%20Speaking-DC143C?style=flat-square)
 ![Active Listening](https://img.shields.io/badge/👂%20Active%20Listening-87CEEB?style=flat-square)
 
 </div>
@@ -80,7 +80,7 @@ I thrive at the intersection of cutting-edge technology and real-world problem s
 ## 💼 Experience
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Tech%20Lead%20Intern-VISWAM.AI%20%40%20IIITH-FF69B4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech%20Lead%20Intern-VISWAM.AI%20%40%20IIITH-DC143C?style=for-the-badge&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/In%20Collaboration%20with-Swecha%20%26%20Meta-87CEEB?style=for-the-badge&logoColor=white"/>
 </div>
@@ -99,7 +99,7 @@ I thrive at the intersection of cutting-edge technology and real-world problem s
 ### 🧠 NEXTAURA — AI Agent Co-Pilot for MSMEs
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🥈%202nd%20Prize-InnoQuest%20%233-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🥈%202nd%20Prize-InnoQuest%20%233-DC143C?style=for-the-badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Azure-Collaboration-87CEEB?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </div>
@@ -153,11 +153,11 @@ A responsive, interactive website for the IEEE CS Student Chapter at Anurag Univ
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB%20with%20Python-Infosys-FF69B4?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB%20with%20Python-Infosys-DC143C?style=flat-square&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%20Programming%20Fundamentals-Infosys-87CEEB?style=flat-square&logo=openjdk&logoColor=white)
-![AI](https://img.shields.io/badge/Learn%20AI%20%26%20Gen%20AI%20Basics-Microsoft-FF69B4?style=flat-square&logo=microsoft&logoColor=white)
+![AI](https://img.shields.io/badge/Learn%20AI%20%26%20Gen%20AI%20Basics-Microsoft-DC143C?style=flat-square&logo=microsoft&logoColor=white)
 ![Design](https://img.shields.io/badge/Design%20with%20AI-Microsoft-87CEEB?style=flat-square&logo=microsoft&logoColor=white)
-![PaloAlto](https://img.shields.io/badge/Security%20Operations%20Fundamentals-Palo%20Alto%20Networks-FF69B4?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![PaloAlto](https://img.shields.io/badge/Security%20Operations%20Fundamentals-Palo%20Alto%20Networks-DC143C?style=flat-square&logo=paloaltonetworks&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cybersecurity%20Essentials-Cisco-87CEEB?style=flat-square&logo=cisco&logoColor=white)
 
 </div>
@@ -180,7 +180,7 @@ A responsive, interactive website for the IEEE CS Student Chapter at Anurag Univ
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18&height=120&section=footer&animation=fadeIn" />
 
 *✨ Feel free to connect for collaboration, projects, or just a tech chat! ✨*
 
