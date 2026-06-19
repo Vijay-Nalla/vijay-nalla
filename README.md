@@ -1,331 +1,275 @@
-````markdown
 <div align="center">
 
-# ⚡ NALLA VIJAY BALAJI ⚡
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12&height=280&section=header&text=NALLA%20VIJAY%20BALAJI&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=⚙️%20Genius.%20Developer.%20AI%20Engineer.%20%7C%20Powered%20by%20Arc%20Reactor%20⚙️&descAlignY=63&descSize=16&stroke=FF0000&strokeWidth=3" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Software+Developer;Tech+Lead;Hackathon+Winner;Building+AI+Systems+That+Matter;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+AI+Agents" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=750&lines=Initializing+JARVIS...;Deploying+AI+Systems...;Scanning+for+Threats+%26+Bugs...;All+Systems+Nominal.+Suit+Up.;Building+the+Future+with+AI...;Welcome+to+My+Tech+Universe+%F0%9F%A4%96" />
 
-<p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=nalla-vijay-balaji&label=PROFILE+VISITORS&color=0e75b6&style=for-the-badge" />
-
-<a href="mailto:nallavijaibalaji@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/nalla-vijay-balaji-b8742b317">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://linkedin.com/in/nalla-vijay-balaji-b8742b317)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:nallavijaibalaji@gmail.com)
+[![Location](https://img.shields.io/badge/Hyderabad%2C%20India-111111?style=for-the-badge&logo=googlemaps&logoColor=FF0000)](https://maps.google.com/?q=Hyderabad,Telangana)
+![Visitors](https://komarev.com/ghpvc/?username=nalla-vijay-balaji&color=ff0000&style=for-the-badge&label=SUIT+ACTIVATIONS)
 
 </div>
 
 ---
 
-# 🚨 RECRUITER ALERT
+## 🧠 AI CORE PROFILE
 
-<table>
-<tr>
+<img align="right" width="32%" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
 
-<td align="center">
+```python
+class JarvisSystem:
+    def __init__(self):
+        self.host       = "Nalla Vijay Balaji"
+        self.role       = "AI & LLM Engineer"
+        self.location   = "Hyderabad, India 🇮🇳"
+        self.cgpa       = 8.65        # Arc Reactor efficiency
+        self.university = "Anurag University — CSE"
+        self.capabilities = [
+            "Multi-Agent AI Systems",
+            "RAG & LLM Engineering",
+            "Computer Vision (OpenCV)",
+            "Full Stack Web Development",
+            "Hackathon Domination 🏆"
+        ]
+        self.mission = (
+            "Design intelligent systems "
+            "that think, adapt, and evolve."
+        )
 
-## 🏆 AIR 59
-
-Naukri CodeQuest
-
-29,078 Participants
-
-</td>
-
-<td align="center">
-
-## 🥈 HACKATHON WINNER
-
-InnoQuest #3
-
-2nd Position
-
-</td>
-
-<td align="center">
-
-## 🤖 AI INTERN
-
-IIIT Hyderabad
-
-Meta × Swecha
-
-</td>
-
-<td align="center">
-
-## 💼 TECH LEAD
-
-VISWAM.AI
-
-AI Systems
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ EXECUTIVE SUMMARY
-
-```yaml
-Name: Nalla Vijay Balaji
-
-Role: AI Engineer
-
-University: Anurag University
-
-Degree: B.Tech Computer Science
-
-Academic Score: 87.2%
-
-Location: Hyderabad, India
-
-Current Focus:
-  - AI Agents
-  - LLM Engineering
-  - RAG Systems
-  - Computer Vision
-  - Software Development
-
-Mission:
-  Build intelligent software that solves real-world problems.
+    def deploy(self):
+        return "⚙️ All systems active. Ready for execution."
 ```
 
----
-
-# 🔥 IMPACT DASHBOARD
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🏆 AIR 59 - Naukri CodeQuest
-
-🥈 2nd Position - InnoQuest #3
-
-🏅 Top 10 - InnoQuest #1
-
-🤖 AI Internship - IIIT Hyderabad × Meta
-
-💼 Tech Lead Intern - VISWAM.AI
-
-📜 15+ Industry Certifications
-
-🔐 5+ Cyber Security Certifications
-
-🌐 10+ Cisco Certifications
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<br clear="right"/>
 
 ---
 
-# 🧠 TECHNOLOGY MATRIX
-
-## Programming
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
-
----
-
-## Artificial Intelligence
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-111827?style=for-the-badge)
-![Multi-Agent AI](https://img.shields.io/badge/Multi_Agent_AI-111827?style=for-the-badge)
-
----
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/Google_Colab-111827?style=for-the-badge&logo=googlecolab)
-![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter)
-
----
-
-# 🚀 PROJECT COMMAND CENTER
-
-## 🎮 SYNTAX SAGA
-
-```text
-STATUS           : DEPLOYED
-
-TYPE             : Coding Adventure Platform
-
-LANGUAGES        : Python, Java, C, C++, JavaScript, R
-
-FEATURES         :
-✓ 50+ Interactive Levels
-✓ Adaptive Difficulty
-✓ Achievement System
-✓ Ranking System
-✓ Real-Time Challenges
-
-IMPACT           :
-✓ 85–90% Higher Learning Engagement
-```
-
----
-
-## 🤖 NEXTAURA
-
-```text
-STATUS           : HACKATHON WINNER
-
-TYPE             : Multi-Agent AI Platform
-
-TECH STACK       :
-LLMs
-NLP
-Analytics
-AI Agents
-
-IMPACT           :
-✓ 30% Faster Query Handling
-✓ 15% Higher User Engagement
-
-AWARD            :
-🥈 InnoQuest #3
-```
-
----
-
-## 🖐️ VIRTUAL MOUSE
-
-```text
-STATUS           : COMPLETED
-
-TYPE             : Computer Vision
-
-TECH STACK       :
-Python
-OpenCV
-
-IMPACT           :
-✓ 92% Detection Accuracy
-✓ 25% Smoother Tracking
-```
-
----
-
-## 🌐 IEEE CS WEBSITE
-
-```text
-STATUS           : LIVE
-
-TYPE             : Full Stack Web Development
-
-FEATURES         :
-✓ Events Portal
-✓ Team Management
-✓ Updates System
-
-IMPACT           :
-✓ 40% Faster Load Time
-✓ 20% Higher User Engagement
-```
-
----
-
-# 📊 GITHUB ANALYTICS
+## 🔴 HUD — SYSTEM STATUS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ⚙️  J.A.R.V.I.S  ACADEMIC INTELLIGENCE REPORT  ⚙️             ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🔴 B.Tech CSE  ·  Anurag University  ·  CGPA: 8.65 / 10       ║
+║     ARC POWER   ████████████████████░░░░  86.5%                 ║
+║                                                                  ║
+║  🟡 Intermediate  ·  Narayana Jr. College  ·  96.6%             ║
+║     REPULSOR     ████████████████████████░  96.6%               ║
+║                                                                  ║
+║  🔴 Secondary  ·  ZPHS Raghunathpur  ·  GPA: 10.0 PERFECT       ║
+║     UNIBEAM     ██████████████████████████  100% ✅              ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENT VAULT
+## ⚙️ SUIT COMPONENTS — TECH STACK
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-🏆 AIR 59 — Naukri CodeQuest
+<img src="https://media.giphy.com/media/kz9PxJnBqPAqczTjMG/giphy.gif" width="280"/>
 
-🥈 InnoQuest #3 Winner
+### 🔴 PRIMARY WEAPONS
 
-🏅 Top 10 — InnoQuest #1
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF0000)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=FFD700)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=FF0000)
 
-🤖 AI Internship — IIIT Hyderabad
+### 🟡 REPULSOR SYSTEMS (Web & DB)
 
-💼 Tech Lead — VISWAM.AI
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FF0000)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=FFD700)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=FF0000)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FFD700)
 
-📜 15+ Certifications
+### 🔴 ARC REACTOR — AI & Intelligence
 
-🔐 Cyber Security Certified
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=FF0000)
+![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=FFD700)
+![RAG](https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge&logoColor=FF0000)
+![MultiAgent](https://img.shields.io/badge/Multi--Agent_AI-111111?style=for-the-badge&logoColor=FFD700)
+![DBMS](https://img.shields.io/badge/DBMS-111111?style=for-the-badge&logoColor=FF0000)
 
-🌐 Cisco Certified
+</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+## 🦾 MISSION LOG — EXPERIENCE
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" width="260"/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║   ⚙️  TECH LEAD INTERN  ·  VISWAM.AI  ·  IIITH  ⚙️            ║
+║       [ Swecha × Meta Collaboration ]  ·  8 Weeks              ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🔴 MISSION   →  Build AI systems at IIIT Hyderabad             ║
+║  🟡 FOCUS     →  LLMs, RAG, Multi-Agent Intelligence            ║
+║  🔴 OUTPUT    →  AI modules + intelligent Python systems         ║
+║  🟡 SIDE OPS  →  Mentored peers. Led. Delivered.                ║
+║                                                                  ║
+║        "JARVIS, engage the AI protocols."  ✅ Done.             ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🚀 DEPLOYED PROJECTS
+
+### ⚙️ NEXTAURA — AI Agent Co-Pilot for MSMEs
+
+<div align="center">
+
+![Prize](https://img.shields.io/badge/🥈_2ND_PRIZE_WON-111111?style=for-the-badge&logoColor=FF0000)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=FFD700)
+![InnoQuest](https://img.shields.io/badge/InnoQuest_%233-111111?style=for-the-badge&logoColor=FF0000)
+
+</div>
+
+> *"JARVIS, deploy the multi-agent system. Automate their marketing. Handle their support. Let them focus on growth."*
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  ⚡ QUERY SPEED    →  30% FASTER  — Efficiency upgraded  ║
+║  📈 ENGAGEMENT     →  +15% RISE  — Target acquired       ║
+║  🤖 TECH CORE      →  NLP · LLMs · Multi-Agent · Analytics║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🎯 CURRENT OBJECTIVES
+### ⚙️ IEEE CS Student Chapter — Official Website
 
-```text
-[████████████████████] AI Agents
+<div align="center">
 
-[██████████████████░░] LLM Engineering
+![IEEE](https://img.shields.io/badge/IEEE_CS_Chapter-111111?style=for-the-badge&logo=ieee&logoColor=FF0000)
+![FullStack](https://img.shields.io/badge/Full_Stack_Web-111111?style=for-the-badge&logoColor=FFD700)
 
-[█████████████████░░░] RAG Systems
+</div>
 
-[██████████████████░░] Computer Vision
+> *"Repulsor blast fired. 40% load time annihilated. UI/UX fully upgraded."*
 
-[███████████████████░] Software Engineering
-
-[████████████████░░░░] Open Source
+```
+╔══════════════════════════════════════════════════════════╗
+║  🚀 LOAD TIME      →  40% FASTER  — Thrusters engaged   ║
+║  📊 ENGAGEMENT     →  +20% HIGHER — Users stayed online  ║
+║  📄 MODULES        →  Events · Team · Updates            ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 📡 CONNECT
+## 🏆 BATTLE RECORD
 
-```yaml
-Email:
-  nallavijaibalaji@gmail.com
+<div align="center">
 
-LinkedIn:
-  linkedin.com/in/nalla-vijay-balaji-b8742b317
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="240"/>
 
-Location:
-  Hyderabad, Telangana, India
 ```
+╔══════════════════════════════════════════════════════════════════╗
+║                  ⚙️  STARK ACHIEVEMENT LOG  ⚙️                 ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   🥈  2ND PRIZE   →  INNOQUEST #3                               ║
+║                       Microsoft Azure × Reskill Hackathon        ║
+║                                                                  ║
+║   ✅  SELECTED    →  SMART INDIA HACKATHON 2025 🇮🇳             ║
+║                       National Level Selection                    ║
+║                                                                  ║
+║   🏅  TOP 5       →  INNOQUEST #1                               ║
+║                       Microsoft Azure × Reskill Hackathon        ║
+║                                                                  ║
+║   🥈  RUNNER-UP   →  PARSE-A-THON Hackathon                     ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║        4 BATTLES · 2 TROPHIES · 1 NATIONAL SELECTION            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📜 STARK CLEARANCE BADGES (Certifications)
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/🍃_MongoDB_with_Python-111111?style=flat-square&logoColor=FF0000)
+![Java](https://img.shields.io/badge/☕_Java_Fundamentals-111111?style=flat-square&logoColor=FFD700)
+![AI](https://img.shields.io/badge/🤖_AI_&_Gen_AI_Basics-111111?style=flat-square&logoColor=FF0000)
+![Design](https://img.shields.io/badge/✈️_Design_with_AI-111111?style=flat-square&logoColor=FFD700)
+![PaloAlto](https://img.shields.io/badge/🔐_Security_Ops-PaloAlto-111111?style=flat-square&logoColor=FF0000)
+![Cisco](https://img.shields.io/badge/🛡️_Cybersecurity-Cisco-111111?style=flat-square&logoColor=FFD700)
+
+</div>
+
+---
+
+## 🔧 AUXILIARY SYSTEMS (Other Activities)
+
+<div align="center">
+
+```
+  🔴 Photography & Editor Lead  ──►  IEEE CS Student Chapter
+  🟡 Marketing Team Lead        ──►  College Newsletter "Bytes"
+  🔴 Club Member                ──►  Career Odyssey Club (Placements)
+```
+
+</div>
+
+---
+
+## ⚙️ CORE PROTOCOLS (Soft Skills)
+
+<div align="center">
+
+![Time Management](https://img.shields.io/badge/⏰_Time_Management-111111?style=for-the-badge&logoColor=FF0000)
+![Team Work](https://img.shields.io/badge/🤝_Team_Work-111111?style=for-the-badge&logoColor=FFD700)
+![Public Speaking](https://img.shields.io/badge/🎤_Public_Speaking-111111?style=for-the-badge&logoColor=FF0000)
+![Active Listening](https://img.shields.io/badge/👂_Active_Listening-111111?style=for-the-badge&logoColor=FFD700)
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ BUILDING THE FUTURE WITH AI ⚡
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="220"/>
 
-"Transforming Ideas Into Intelligent Systems."
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   " I am Iron Man.                                           ║
+║     And I am also the developer,                             ║
+║     the debugger, and the deployment pipeline. "             ║
+║                                                              ║
+║                         — Nalla Vijay Balaji  ⚙️            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### ⚙️ INITIATE CONTACT
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://linkedin.com/in/nalla-vijay-balaji-b8742b317)
+[![Email](https://img.shields.io/badge/Send_Transmission_(Email)-111111?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:nallavijaibalaji@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12&height=160&section=footer&animation=twinkling&text=⚙️%20JARVIS%20OFFLINE.%20VIJAY%20ONLINE.%20⚙️&fontSize=24&fontColor=ffffff&fontAlignY=55" />
 
 </div>
-````
